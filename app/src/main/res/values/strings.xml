@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpotifyClone</string>
+    <string name="notification_Channel_name">MUSIC CHANNEL</string>
+    <string name="notification_Channel_Description">show the current music</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
